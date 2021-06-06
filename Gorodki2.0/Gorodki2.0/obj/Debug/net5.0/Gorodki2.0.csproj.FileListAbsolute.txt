@@ -1,0 +1,16 @@
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\Gorodki2.0.exe
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\Gorodki2.0.deps.json
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\Gorodki2.0.runtimeconfig.json
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\Gorodki2.0.runtimeconfig.dev.json
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\Gorodki2.0.dll
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\ref\Gorodki2.0.dll
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\bin\Debug\net5.0\Gorodki2.0.pdb
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.csprojAssemblyReference.cache
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.AssemblyInfoInputs.cache
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.AssemblyInfo.cs
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.csproj.CoreCompileInputs.cache
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.dll
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\ref\Gorodki2.0.dll
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.pdb
+C:\Users\oibes\source\repos\Gorodki2.0\Gorodki2.0\obj\Debug\net5.0\Gorodki2.0.genruntimeconfig.cache
